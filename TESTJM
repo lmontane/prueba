@@ -13,5 +13,7 @@ public class Main {
         Math.sqrt(x);
 
         System.out.println(Math.random() * 1);
+        System.out.println(Math.random() * 10);
+        System.out.println(Math.random() * 3);
     }
 }
