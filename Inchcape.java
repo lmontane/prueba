@@ -30,3 +30,26 @@ public class Main2 {
     System.out.println(txt);
   }
 }
+
+public class Main2 {
+    public static void main(String[] args) {
+        int v_int = 14;
+        char v_char = 'Y';
+        String v_string = "Hello!";
+        Double v_double = 2.5;
+        float v_float = 2.5f;
+        short v_short = 307;
+        byte v_byte = -1;
+        long v_long = 438000000L;
+        boolean v_boolean = false;
+        System.out.println(v_int);
+        System.out.println(v_char);
+        System.out.println(v_string);
+        System.out.println(v_double);
+        System.out.println(v_float);
+        System.out.println(v_short);
+        System.out.println(v_byte);
+        System.out.println(v_long);
+        System.out.println(v_boolean);
+    }
+}
