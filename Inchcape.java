@@ -21,3 +21,12 @@ public class Example {
         System.out.println(order + (previousOrder + 1));
     }
 }
+
+public class Main2 {
+  public static void main(String[] args) {
+    int x = 5;
+    String txt = "Hola Mundo";
+    System.out.println(x);
+    System.out.println(txt);
+  }
+}
