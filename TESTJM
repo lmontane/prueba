@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+        /*
+         * String thanks = "Thank you,"; String name = "miguel!"; String order =
+         * "Your order number is #"; var previousOrder = 715; System.out.println(thanks
+         * + " " + name.toUpperCase()); System.out.println(order + ++previousOrder);
+         */
+        int x = 5;
+        int y = 10;
+        Math.max(x, y);
+
+        x = 16;
+        Math.sqrt(x);
+
+        System.out.println(Math.random() * 1);
+    }
+}
